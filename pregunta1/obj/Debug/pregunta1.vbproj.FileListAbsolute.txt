@@ -1,0 +1,11 @@
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta1\bin\Debug\pregunta1.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.vbproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.pdb
